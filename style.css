@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.background-image {
+  background-image: url(https://preview.colorlib.com/theme/justice/images/hero_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 750px;
+  opacity: 0.95;
+}
+.nav-item{
+    margin-right: 3rem;
+}
+.head{
+    padding-right: 10%;
+    float: right;
+    padding-top: 12%;
+}
+.fontchanger{
+    font-style: bold;
+    font-weight: 700;
+    color:#B49C73 ;
+    font-size: larger;
+}
+.btn{
+    border: 2px solid  #B49C73;
+    background-color: #b49c73;
+    color: #fff;
+    border-radius: 20%;
+    padding: 10px;
+}
+#link{ 
+    color: #B49C73;
+    font-size: larger
+}    
+.para{
+    display: flex;
+    background-color: rgb(37, 36, 36);
+    line-height: 1rem;
+}
+.cloumn1{
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 50%;
+}
+#first, #second {
+    color: #B2B2AD;
+    font-size: 18px;
+    
+}
+.span1{
+    color: #ffffffce;
+}
+.tex{
+    margin-top: 9rem;
+    margin-left: 8rem;
+}
+.tex1{
+    color: #B49C73;
+}
+.tex2{
+    color:#B2B2AD ;
+}
+
+
+
+
+
+
